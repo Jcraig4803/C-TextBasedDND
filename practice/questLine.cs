@@ -1,0 +1,6 @@
+﻿namespace practice
+{
+    class questLine
+    {
+    }
+}
