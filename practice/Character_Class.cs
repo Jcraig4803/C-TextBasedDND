@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace practice
 {
-    public abstract class Character_Class
+    public class Character_Class
     {
         /* Strength: 
            Dexterity:
@@ -18,7 +18,7 @@ namespace practice
 
         // The basic classes (The WARRIOR, The ROUGE, The SORCERER)
         // these three classes will have branched classed
-        public void ChooseClass()
+        public ChooseClass()
         {
             // The Warrior will have Two branch classes (Barbarin, and Paladian)
             if Chooseclass = Warrior

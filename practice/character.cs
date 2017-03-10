@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace practice
 {
-    public class Character
+    public abstract class Character
     {
 
         public int Strength { get; set; }
