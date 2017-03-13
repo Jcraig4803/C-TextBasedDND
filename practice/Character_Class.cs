@@ -21,8 +21,8 @@ namespace practice
         public ChooseClass()
         {
             // The Warrior will have Two branch classes (Barbarin, and Paladian)
-            if Chooseclass = Warrior
-            {
+            if ChooseClass = Warrior
+                {
                 Console.WriteLine("Warrior");
                 Console.WriteLine("Please select a type of Warrior." + "\n" + "Barbarin" + "\n" + "Paladian");
                 if Warrior = Barbarin
